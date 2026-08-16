@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Hash Table
+|  |
+| ------- |
+| [1496-path-crossing](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1496-path-crossing) |
+## String
+|  |
+| ------- |
+| [1496-path-crossing](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1496-path-crossing) |
 <!---LeetCode Topics End-->
