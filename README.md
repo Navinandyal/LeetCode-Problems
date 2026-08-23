@@ -26,17 +26,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1154-day-of-the-year](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1154-day-of-the-year) |
 | [1496-path-crossing](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1496-path-crossing) |
+| [1927-sum-game](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1927-sum-game) |
 ## Math
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1154-day-of-the-year](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1154-day-of-the-year) |
+| [1927-sum-game](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Greedy
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
@@ -53,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
