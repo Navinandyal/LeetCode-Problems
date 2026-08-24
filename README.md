@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1496-path-crossing](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1496-path-crossing) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
