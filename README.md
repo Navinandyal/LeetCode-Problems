@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
@@ -139,10 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
