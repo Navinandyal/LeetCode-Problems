@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1386-cinema-seat-allocation](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
