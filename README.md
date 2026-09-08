@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [1154-day-of-the-year](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1154-day-of-the-year) |
 | [1496-path-crossing](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1496-path-crossing) |
+| [1903-largest-odd-number-in-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [1154-day-of-the-year](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1154-day-of-the-year) |
+| [1903-largest-odd-number-in-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1927-sum-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [1386-cinema-seat-allocation](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1386-cinema-seat-allocation) |
+| [1903-largest-odd-number-in-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Simulation
