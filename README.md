@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3945-digit-frequency-score](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3945-digit-frequency-score](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3959-check-good-integer) |
 ## Greedy
 |  |
