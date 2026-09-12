@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3894-traffic-signal-color](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3921-score-validator) |
 ## Math
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3894-traffic-signal-color](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3959-check-good-integer) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3894-traffic-signal-color](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3921-score-validator) |
 | [3959-check-good-integer](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3959-check-good-integer) |
 ## Dynamic Programming
