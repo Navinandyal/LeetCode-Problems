@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3904-smallest-stable-index-ii) |
+| [3917-count-indices-with-opposite-parity](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3921-score-validator) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [3978-unique-middle-element](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3978-unique-middle-element) |
