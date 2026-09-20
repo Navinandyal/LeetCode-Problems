@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3921-score-validator) |
 ## Math
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3894-traffic-signal-color](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3921-score-validator) |
 | [3959-check-good-integer](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3959-check-good-integer) |
