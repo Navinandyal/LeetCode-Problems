@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3866-first-unique-even-element](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3866-first-unique-even-element) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1927-sum-game) |
 | [2965-find-missing-and-repeated-values](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3870-count-commas-in-range) |
