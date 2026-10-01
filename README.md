@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [1154-day-of-the-year](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1154-day-of-the-year) |
 | [1496-path-crossing](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1496-path-crossing) |
@@ -299,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
