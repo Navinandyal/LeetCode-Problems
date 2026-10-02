@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [1154-day-of-the-year](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1154-day-of-the-year) |
 | [1496-path-crossing](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1496-path-crossing) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -308,4 +310,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
