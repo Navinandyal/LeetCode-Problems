@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1154-day-of-the-year) |
 | [1496-path-crossing](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1496-path-crossing) |
 | [1903-largest-odd-number-in-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
