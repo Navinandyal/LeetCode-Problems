@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2643-row-with-maximum-ones) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0268-missing-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
