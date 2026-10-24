@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1496-path-crossing](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1496-path-crossing) |
 | [1903-largest-odd-number-in-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/Navinandyal/LeetCode-Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Navinandyal/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
