@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Navinandyal/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [1154-day-of-the-year](https://github.com/Navinandyal/LeetCode-Problems/tree/master/1154-day-of-the-year) |
